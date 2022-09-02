@@ -11,7 +11,7 @@ gem "decidim-initiatives", git: "https://github.com/decidim/decidim.git", branch
 
 gem "decidim-decidim_awesome", "~> 0.7.0"
 gem "decidim-term_customizer", git: "https://github.com/mainio/decidim-module-term_customizer.git", branch: "master"
-gem "omniauth-publik", git: "https://github.com/OpenSourcePolitics/omniauth-publik", branch: "v0.0.9"
+gem "omniauth-publik", git: "https://github.com/OpenSourcePolitics/omniauth-publik", branch: "villejuif/downcased_emails"
 
 gem "bootsnap", "~> 1.4"
 
