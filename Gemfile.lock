@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/OpenSourcePolitics/omniauth-publik
-  revision: c7a500680a0b11dca0542cfc6d5984a2bc1cfad7
-  branch: villejuif/downcased_emails
+  revision: 50630f1ffbdd863e6cc0a4b8ed3a8febddccf6db
+  branch: fix/downcase_emails_0.24
   specs:
     omniauth-publik (0.0.9)
       omniauth (~> 1.9)
@@ -950,6 +950,7 @@ GEM
 PLATFORMS
   ruby
   x86_64-darwin-19
+  x86_64-darwin-20
 
 DEPENDENCIES
   activejob-uniqueness
