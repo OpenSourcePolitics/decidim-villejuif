@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/OpenSourcePolitics/omniauth-publik
-  revision: 50630f1ffbdd863e6cc0a4b8ed3a8febddccf6db
-  branch: fix/downcase_emails_0.24
+  revision: 6eb9d6daeb310ab28f4695506060fe03a1a10c4e
+  branch: release/0.24-stable
   specs:
     omniauth-publik (0.0.9)
       omniauth (~> 1.9)
